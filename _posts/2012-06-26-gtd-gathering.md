@@ -5,16 +5,9 @@ category:
 tags: []
 ---
 {% include JB/setup %}
-×òÌìºÍGTD°®ºÃÕß@Ð¡Ô°_²è ¾ÛÁËÒ»´Î£¬ÊÕ»ñºÜ¶à¡£
-³¤¾ÃÒÔÀ´×öGTDµÄÊµ¼ùÒ»Ö±ÊÇ×Ô¼ºÔÚÃþË÷£¬Ã»ÓÐÏµÍ³µØ½»Á÷¹ý¡£¼ÈÈ»GTDµÄÒ»ÏîÖØÒªË¼ÏëÊÇReview,ÄÇÃ´½ñÌì¾Í×øÑÔÆðÐÐÀ´¼ÇÂ¼Ò»ÏÂ×òÌì½»Á÷µÄÒªµã°É¡£
-###ÄÚÈÝ###
-1.ÈçºÎ¼ÇÂ¼Éú»î£¿
-Ð¡Ô°_²è£ºÀûÓÃexcel±íÀ´Í³Ò»¹ÜÀíÔË¶¯¡¢Éú»î¿ªÏú¡¢Ñ§Ï°Ê±¼ä¼ÍÂ¼µÈ¡£
-Odeussea:Èí¼þ¿Ø£¬ÀûÓÃRun Keeper,ÕÊ×åÀ´¼ÇÂ¼ÔË¶¯Ê±¼äºÍÉú»î¿ªÏú¡£Ñ§Ï°Ê±¼ä¼ÍÂ¼ÓÃA6»îÒ³±¾£¬×ó±ßÊÇTO DO TODAY£¬ÓÒ±ßÊÇTIME LOGGING¡£
+ä¸Šå‘¨å’ŒGTDçˆ±å¥½è€…@å°å›­_èŒ¶ å¦¹çº¸èšäº†ä¸€æ¬¡ï¼Œæ”¶èŽ·å¾ˆå¤šã€‚
+é•¿ä¹…ä»¥æ¥åšGTDçš„å®žè·µä¸€ç›´æ˜¯è‡ªå·±åœ¨æ‘¸ç´¢ï¼Œæ²¡æœ‰å’ŒGå‹ç³»ç»Ÿäº¤æµè¿‡ã€‚æ—¢ç„¶GTDçš„ä¸€é¡¹é‡è¦æ€æƒ³æ˜¯å›žé¡¾ï¼Œé‚£ä¹ˆä»Šå¤©å°±åè¨€èµ·è¡Œæ¥è®°å½•ä¸€ä¸‹äº¤æµçš„è¦ç‚¹å§ã€‚
+###å†…å®¹###
 
-2.
-###·´Ë¼###
-1.¶ÔÐÂÖªÊ¶ÒªÌåÏµ»¯£¬ÉîÈë»¯¡£²»ÄÜ×ö¡°ÖªµÀ·Ö×Ó¡±£»
-2.Í¨¹ýProblem SolvingÀ´¸Ä±äË¼Î¬·½·¨£»
-3.¶à²Î¼ÓÏßÏÂ»î¶¯½»Á÷£¬¹«¿ª³ÐÅµ£»
-4.ÔçË¯ÔçÆð¡£
+
+###åæ€###
