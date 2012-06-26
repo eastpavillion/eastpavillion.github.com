@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GTD gathering"
+title: "GTD Gathering"
 category: 
 tags: []
 ---
