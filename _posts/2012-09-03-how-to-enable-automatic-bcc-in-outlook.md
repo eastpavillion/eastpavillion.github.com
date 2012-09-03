@@ -43,8 +43,7 @@ OK, here we come.
 
 * Paste below code into Editor ( replace someone@somewhere.com with your email)
 
->Private Sub Application_ItemSend(ByVal Item As Object, _
->                                 Cancel As Boolean)
+>Private Sub Application_ItemSend(ByVal Item As Object, _Cancel As Boolean)
 >    Dim objRecip As Recipient
 >    Dim strMsg As String
 >    Dim res As Integer
@@ -69,7 +68,7 @@ OK, here we come.
     End If
 
     Set objRecip = Nothing
-End Sub
+    End Sub
 
 * Save and exit VBA Editor.
 
