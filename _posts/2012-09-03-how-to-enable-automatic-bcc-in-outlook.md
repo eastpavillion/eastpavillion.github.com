@@ -44,11 +44,11 @@ OK, here we come.
 * Paste below code into Editor ( replace someone@somewhere.com with your email)
 
 >Private Sub Application_ItemSend(ByVal Item As Object, _Cancel As Boolean)
->    Dim objRecip As Recipient
->    Dim strMsg As String
->    Dim res As Integer
->    Dim strBcc As String
->    On Error Resume Next
+    Dim objRecip As Recipient
+    Dim strMsg As String
+    Dim res As Integer
+    Dim strBcc As String
+    On Error Resume Next
 
     ' #### USER OPTIONS ####
     ' address for Bcc -- must be SMTP address or resolvable
