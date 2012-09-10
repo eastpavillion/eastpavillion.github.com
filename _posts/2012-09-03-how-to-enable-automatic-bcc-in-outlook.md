@@ -32,11 +32,13 @@ OK, here we come.
 * Open Outlook **Tools->Macro->Security**
 
 
-![Open Marco Security Setting](C:/Users/eyiimei/Desktop/outlook_macro.jpg "Outlook Marco")
+![what ever](C:/Users/eyiimei/Desktop/outlook_macro.jpg "Outlook Marco")
 
 * Select **Security Level** to *Medim*
 
-* 
+![middle](C:\Users\eyiimei\Desktop\outloo_security_level_medium.jpg "middle level security")
+
+
 
 ###2. Add VBA code in ThisOutlookSession Module###
 
