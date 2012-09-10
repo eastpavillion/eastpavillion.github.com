@@ -15,7 +15,7 @@ In David Allen's famous book *Getting Things Done*, he suggests readers to use *
 Normally, I would add myself into BCC lists. Thus I could directly drag the outgoing mail into **@Waiting** folder, without bothering to drag it from **Sent** box to **@Waiting** again.
 
 
-Recently I am working on a project in which people are remotely collaborated , with jeglag. So almost each emails I sent need to be archived , or tracked. I strongly need outlook to BCC emails I sent.
+Recently I am working on a project in which people are remotely collaborated , with jetlag. So almost each emails I sent need to be archived , or tracked. I strongly need outlook to BCC emails I sent.
 
 
 However, Outlook2003 does not support the auto-BCC function itself, without installation of 3pp plugin.( I don't whether later Outlook has enabled to do this).And the reason why I'm not intersted in 3pp solution, is that it's company laptop and there are some security concerns.
@@ -31,9 +31,12 @@ OK, here we come.
 ###1. Enable Macro in Outlook# 
 * Open Outlook **Tools->Macro->Security**
 
+
+![Open Marco Security Setting](C:/Users/eyiimei/Desktop/outlook_macro.jpg "Outlook Marco")
+
 * Select **Security Level** to *Medim*
 
-* Insert snapshot 1 here.
+* 
 
 ###2. Add VBA code in ThisOutlookSession Module###
 
