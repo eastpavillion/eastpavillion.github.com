@@ -31,7 +31,7 @@ OK, here we come.
 ###1. Enable Macro in Outlook# 
 * Open Outlook **Tools->Macro->Security**
 
-[img-outlook-marco]:http:/eastpavillion.github.com/images/outlook_macro.jpg
+[img-outlook-marco]: http://eastpavillion.github.com/images/outlook_macro.jpg
 
 
 * Select **Security Level** to *Medim*
