@@ -42,15 +42,15 @@ OK, here we come.
 
 ###2. Add VBA code in ThisOutlookSession Module###
 
-* Open VBA Editor by ...
+* Open VBA Editor by **Tools->Macro->Visual Basic Editor**
 
 * Insert snapshot 2 here.
 
 * Paste below code into Editor ( replace someone@somewhere.com with your email)
 
 >Private Sub Application_ItemSend(ByVal Item As Object, _Cancel As Boolean)
-    Dim objRecip As Recipient
-    Dim strMsg As String
+>Dim objRecip As Recipient
+>Dim strMsg As String
     Dim res As Integer
     Dim strBcc As String
     On Error Resume Next
