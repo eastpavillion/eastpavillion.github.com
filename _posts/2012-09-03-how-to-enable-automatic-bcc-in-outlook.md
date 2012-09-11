@@ -35,7 +35,7 @@ OK, here we come.
 [img-gerrit-gitweb]: http://larrycai.github.com/images/gerrit-gitweb.png
 
 
-* Select **Security Level** to *Medim*
+* Select **Security Level** to *Medium*
 
 [img]: C:\Users\eyiimei\Desktop\outloo_security_level_medium.jpg "middle level security"
 
@@ -44,8 +44,6 @@ OK, here we come.
 ###2. Add VBA code in ThisOutlookSession Module###
 
 * Open VBA Editor by **Tools->Macro->Visual Basic Editor**
-
-* Insert snapshot 2 here.
 
 * Paste below code into Editor ( replace someone@somewhere.com with your email)
 
