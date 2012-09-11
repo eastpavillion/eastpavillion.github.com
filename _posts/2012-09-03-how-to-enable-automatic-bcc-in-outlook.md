@@ -32,12 +32,12 @@ OK, here we come.
 * Open Outlook **Tools->Macro->Security**
 
 ![img-outlook-marco](http://eastpavillion.github.com/images/outlook_macro.jpg)
-[img-gerrit-gitweb]: http://larrycai.github.com/images/gerrit-gitweb.png
+
 
 
 * Select **Security Level** to *Medium*
 
-[img]: C:\Users\eyiimei\Desktop\outloo_security_level_medium.jpg "middle level security"
+![img-outlook-security](http://eastpavillion.github.com/images/outlook_macro.jpg)
 
 
 
