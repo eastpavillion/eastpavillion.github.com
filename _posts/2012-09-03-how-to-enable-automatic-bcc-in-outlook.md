@@ -37,13 +37,15 @@ OK, here we come.
 
 * Select **Security Level** to *Medium*
 
-![img-outlook-security](http://eastpavillion.github.com/images/outlook_macro.jpg)
+![img-outlook-security](http://eastpavillion.github.com/images/outloo_security_level_medium.jpg)
 
 
 
 ###2. Add VBA code in ThisOutlookSession Module###
 
 * Open VBA Editor by **Tools->Macro->Visual Basic Editor**
+![img-outlook-security](http://eastpavillion.github.com/images/outlook_open_vba_editor.jpg)
+![img-outlook-security](http://eastpavillion.github.com/images/outlook_ThisOutlook_Session.jpg)
 
 * Paste below code into Editor ( replace someone@somewhere.com with your email)
 
