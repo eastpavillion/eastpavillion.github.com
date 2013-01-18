@@ -14,10 +14,10 @@ But it works really fine: I smoothly steps into Unit4 of Level 1 in rosetta ston
 
 
 But today I meet a problem in grammar part. A lot of mistakes were made when asked to distinguish between "mer" and "fler".
-In Swedish, the example is Mannen har ____ te än sin fru, the option is mer or fler?
+In Swedish, the example is "Mannen har ??? te än sin fru.", the option is mer or fler?
 According to the picture Rosetta shows, obviously the man is having more tea than his wife. But what is the difference between mer and fler?
 I tried mer. YES! Green checker!
-Then I continue with following questions: Flicka har ____ äpplen än sin mamma.Guess still mer here? Click and get error a big red cross!
+Then I continue with following questions: Flicka har ????  äpplen än sin mamma.Guess still mer here? Click and get error a big red cross!
 
 OK. So according to my English knowledge, it's highly possible that mer and fler is used for incountable nouns and countable nouns respectively.
 To verify my assumption, google translate is used. When translating from Swedish to English, both mer and fler are "more". However, when I tried to translate from English to Swedish for the whole sentece like " The man has more tea than his wife" and "The girl has more apples than her mother", the mer and fler are used here. 
